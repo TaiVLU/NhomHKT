@@ -1,0 +1,9 @@
+export const ACCESS_TOKEN_TTL_SECONDS = 15 * 60;
+export const REFRESH_TOKEN_TTL_SECONDS = 7 * 24 * 60 * 60;
+export const RESET_TOKEN_TTL_SECONDS = 10 * 60;
+export const OTP_TTL_SECONDS = 5 * 60;
+export const OTP_RESEND_COOLDOWN_SECONDS = 60;
+export const MAX_OTP_ATTEMPTS = 5;
+export const MAX_ACTIVE_SESSION_FAMILIES = 5;
+export const REFRESH_COOKIE_NAME = 'hktstore_refresh_token';
+export const BCRYPT_COST = 12;
