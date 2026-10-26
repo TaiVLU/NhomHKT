@@ -456,7 +456,7 @@ export const demoProducts: readonly DemoProductSeed[] = [
     isFeatured: true,
     images: [
       {
-        path: '/product-images/deep-work.jpg',
+        path: '/product-images/dac-nhan-tam.jpg',
         altText: 'Đắc Nhân Tâm',
         role: 'cover',
         sortOrder: 0,
